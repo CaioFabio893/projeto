@@ -212,7 +212,7 @@ Abaixo estão os protótipos desenvolvidos na Fase 1 do projeto:
    SHOW TABLES;
    ```
 
----
+------
 
 ## 🧱 Tecnologias Utilizadas
 
