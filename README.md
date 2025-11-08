@@ -158,11 +158,18 @@ VALUES (1, 1, 8.5, 'Aprovado'),
 
 ---
 
-## 🧮 Diagrama Entidade-Relacionamento (DER)
+## 🧮 Caso de uso
 
-![DER do Sistema](docs/diagrama_ER.png)
+![DER do Sistema](docs/Caso_de_uso.png)
 
-> 💡 Coloque o arquivo do diagrama dentro da pasta `docs/` do repositório.
+## 🧮 Classe UML
+
+![DER do Sistema](docs/## 🧮 Caso de uso
+
+![DER do Sistema](docs/Classe_UML.png)
+
+
+
 
 ---
 
