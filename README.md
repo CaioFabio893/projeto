@@ -175,8 +175,7 @@ Abaixo estão os protótipos desenvolvidos na Fase 1 do projeto:
 * Tela de Cadastro de Professor
 * Tela de Matrículas
 
-![Protótipo Login](docs/prototipo_login.png)
-![Protótipo Aluno](docs/prototipo_cadastro_aluno.png)
+* Protótipo Figma:  https://www.figma.com/design/XXMRp3TlNX4vtHenLsqRMX/Login-e-Cadastro?node-id=0-1&p=f
 
 ---
 
