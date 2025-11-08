@@ -164,7 +164,7 @@ VALUES (1, 1, 8.5, 'Aprovado'),
 
 ## 🧮 Classe UML
 
-![DER do Sistema](docs/## 🧮 Caso de uso
+
 
 ![DER do Sistema](docs/Classe_UML.png)
 
