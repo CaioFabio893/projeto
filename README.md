@@ -1,6 +1,6 @@
 
 
-````markdown
+
 # 🎓 Sistema de Cadastro de Faculdade
 
 ## 🧾 Descrição do Projeto
