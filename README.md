@@ -241,4 +241,4 @@ Este projeto foi desenvolvido para fins **acadêmicos**.
 ---
 
 ## 📄 Documento PDF do Projeto Integrador 2025 - 2° Semestre
-docs/PROJETO INTEGRADOR - PARTE 2_V1.pdf
+![DER do Sistema](docs/PROJETO INTEGRADOR - PARTE 2_V1.pdf)
