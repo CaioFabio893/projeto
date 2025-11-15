@@ -192,7 +192,7 @@ Abaixo estão os protótipos desenvolvidos na Fase 1 do projeto:
   * Login com e-mail e senha
     * Tela de Matrículas
 
-* Protótipo Figma: https://www.figma.com/proto/R3wfY7HNlmr0yZh9Ey5R2r/Untitled?node-id=41-84&t=7NZAgcu945RkcaAJ-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=41%3A329
+* [Protótipo Figma: Untitled](https://www.figma.com/proto/R3wfY7HNlmr0yZh9Ey5R2r/Untitled?node-id=41-84&t=7NZAgcu945RkcaAJ-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=41%3A329)
 
 ---
 
