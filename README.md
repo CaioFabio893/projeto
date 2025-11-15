@@ -177,12 +177,17 @@ VALUES (1, 1, 8.5, 'Aprovado'),
 
 Abaixo estão os protótipos desenvolvidos na Fase 1 do projeto:
 
-* Tela de Login
-* Tela de Escolha: Pessoa Física ou Jurídica
-* Tela de Cadastro de Aluno
-* Tela de Cadastro de Professor
-* Tela de Cadastro de Fornecedor
-* Tela de Matrículas
+* Tela Inicial
+  * Primeiro Acesso
+    * Tela de Escolha: Pessoa Física
+      * Tela de Cadastro de Aluno
+      * Tela de Cadastro de Professor
+        
+    * Tela de Escolha: Pessoa Jurídica
+      * Tela de Cadastro de Fornecedor
+        
+  * Login com e-mail e senha
+    * Tela de Matrículas
 
 * Protótipo Figma: https://www.figma.com/proto/R3wfY7HNlmr0yZh9Ey5R2r/Untitled?node-id=41-84&t=7NZAgcu945RkcaAJ-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=41%3A329
 
