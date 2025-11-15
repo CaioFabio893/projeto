@@ -180,11 +180,14 @@ Abaixo estão os protótipos desenvolvidos na Fase 1 do projeto:
 * Tela Inicial
   * Primeiro Acesso
     * Tela de Escolha: Pessoa Física
-      * Tela de Cadastro de Aluno
-      * Tela de Cadastro de Professor
+      * Tela de Escolha: Aluno
+        * Cadastro de Aluno
+      * Tela de Escolha: Professor
+        * Cadastro de Professor
         
     * Tela de Escolha: Pessoa Jurídica
-      * Tela de Cadastro de Fornecedor
+      * Tela de Escolha: Fornecedor
+        * Cadastro de Fornecedor
         
   * Login com e-mail e senha
     * Tela de Matrículas
